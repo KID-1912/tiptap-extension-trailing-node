@@ -1,0 +1,26 @@
+{
+  "name": "tiptap-extension-trailing-node",
+  "version": "1.0.0",
+  "description": "The extension adds an actual node to the tiptap content.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "node",
+    "blank"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-trailing-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-trailing-node.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.0",
+    "@tiptap/pm": "^2.2.0"
+  }
+}
